@@ -4,11 +4,11 @@ A 3D rotating cube for Android with custom photos on each face, built with OpenG
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-| | |
-|---|---|
-| ![screenshot1](screenshots/screen1.png) | ![screenshot2](screenshots/screen2.png) |
+<img width="377" height="851" alt="screenshot" src="https://github.com/user-attachments/assets/d4785f05-9413-4323-9191-78378b6a1aa9" />
+
+
 
 ---
 
@@ -31,9 +31,4 @@ A 3D rotating cube for Android with custom photos on each face, built with OpenG
 - Android OpenGL ES 1.0
 - Android Studio
 
----
 
-## 📁 How to add your photos
-
-Place 6 images named `pic1.jpg` to `pic6.jpg` inside `res/drawable/`.  
-Square images work best (e.g. 512×512 or 1024×1024 px).
